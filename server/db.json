@@ -1,0 +1,95 @@
+{
+  "items": [
+    {
+      "payeeName": "Grace",
+      "product": "Bike Repair",
+      "price": 1000,
+      "setDate": "2022-04-07",
+      "id": 1
+    },
+    {
+      "payeeName": "Grace",
+      "product": "Movie",
+      "price": 1044,
+      "setDate": "2022-04-05",
+      "id": 2
+    },
+    {
+      "payeeName": "Koshy",
+      "product": "Vegetables",
+      "price": 366,
+      "setDate": "2022-04-01",
+      "id": 3
+    },
+    {
+      "payeeName": "Grace",
+      "product": "Water",
+      "price": 40,
+      "setDate": "2022-04-02",
+      "id": 4
+    },
+    {
+      "payeeName": "Koshy",
+      "product": "Grocery",
+      "price": 192,
+      "setDate": "2022-04-03",
+      "id": 5
+    },
+    {
+      "payeeName": "Koshy",
+      "product": "Rice Bag",
+      "price": 2000,
+      "setDate": "2022-04-05",
+      "id": 6
+    },
+    {
+      "payeeName": "Koshy",
+      "product": "chocolate",
+      "price": 20,
+      "setDate": "2024-06-13",
+      "id": 7
+    },
+    {
+      "payeeName": "Koshy",
+      "product": "chocolate",
+      "price": 20,
+      "setDate": "2024-06-13",
+      "id": 8
+    },
+    {
+      "payeeName": "Grace",
+      "product": "coke",
+      "price": 150,
+      "setDate": "2024-06-12",
+      "id": 9
+    },
+    {
+      "payeeName": "Koshy",
+      "product": "balloons",
+      "price": 60,
+      "setDate": "2024-06-13",
+      "id": 10
+    },
+    {
+      "payeeName": "Grace",
+      "product": "Cadbury Silk",
+      "price": 230,
+      "setDate": "2024-06-14",
+      "id": 11
+    },
+    {
+      "payeeName": "Koshy",
+      "product": "T-Shirt",
+      "price": 1500,
+      "setDate": "2024-06-06",
+      "id": 12
+    },
+    {
+      "payeeName": "Grace",
+      "product": "chocolate cake",
+      "price": 750,
+      "setDate": "2024-06-01",
+      "id": 13
+    }
+  ]
+}
